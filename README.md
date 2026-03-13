@@ -1,28 +1,16 @@
-# 💎 Opal ME - Premium Project Management & Chat UI
+## 📱 App Gallery
 
-Opal ME is a high-end, executive-style project management and communication platform built with **Flutter**. It features a modern **Glassmorphism UI**, organized **Clean Architecture**, and persistent local storage.
+### 🟢 Start & Authentication
+| Splash Screen | Login Screen | Registration | Verify Email |
+| :-: | :-: | :-: | :-: |
+| <img src="screenshots/Screenshot 2026-03-13 163357.png" width="200"/> | <img src="screenshots/Screenshot 2026-03-13 163415.png" width="200"/> | <img src="screenshots/Screenshot 2026-03-13 163432.png" width="200"/> | <img src="screenshots/Screenshot 2026-03-13 163449.png" width="200"/> |
 
----
+### 🟢 Communication & Productivity
+| Messages & Chat | Development Groups | Notifications |
+| :-: | :-: | :-: |
+| <img src="screenshots/Screenshot 2026-03-13 163513.png" width="250"/> | <img src="screenshots/Screenshot 2026-03-13 163526.png" width="250"/> | <img src="screenshots/Screenshot 2026-03-13 163539.png" width="250"/> |
 
-## ✨ Key Features
-* **Modern Chat System:** Real-time UI for individual and group messaging.
-* **Advanced UI/UX:** Glassmorphism design elements with smooth transitions using `AnimatedSwitcher`.
-* **Data Persistence:** Integrated with `Shared Preferences` to save user profiles and settings locally (Offline-first approach).
-* **Clean Architecture:** Separated layers (UI, Services, Core) for high maintainability and scalability.
-* **Smart Navigation:** Sidebar-based navigation optimized for productivity.
-
-## 🛠 Tech Stack
-* **Frontend:** Flutter & Dart
-* **State Management:** Local State (StatefulWidgets) with optimized build methods.
-* **Local Storage:** `shared_preferences` for user data persistence.
-* **Design System:** Custom Dark Theme with `Google Fonts` (Inter/Poppins).
-
-## 📂 Project Structure
-```text
-lib/
-├── core/
-│   ├── theme/          # Custom App Themes (Colors, Text Styles)
-│   └── services/       # Local Storage & Business Logic
-├── features/
-│   └── layout/         # Main screens and navigation logic
-└── main.dart           # App Entry point & Initialization
+### 🟢 User Management & Security
+| User Profile | Edit Profile | Security Settings |
+| :-: | :-: | :-: |
+| <img src="screenshots/Screenshot 2026-03-13 163602.png" width="250"/> | <img src="screenshots/Screenshot 2026-03-13 163620.png" width="250"/> | <img src="screenshots/Screenshot 2026-03-13 163639.png" width="250"/> |
