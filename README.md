@@ -1,4 +1,23 @@
-## 📱 App Gallery
+# 💎 Opal-ME - Premium Project Management & Chat UI
+
+Opal-ME is a comprehensive platform for project management and real-time communication, built to provide a seamless and professional user experience using the latest Flutter technologies.
+
+## 🚀 Technical Stack
+* **Framework**: Flutter (Latest Version)
+* **Architecture**: Clean Architecture (Domain, Data, and Presentation layers)
+* **Principles**: SOLID Principles & Clean Code
+* **UI Style**: Modern Glassmorphism Design
+* **Local Persistence**: Shared Preferences (Offline-first approach)
+
+## ✨ Key Features
+* **Advanced Chat System**: Real-time user interface supporting both individual and group messaging.
+* **Stunning Visual Experience**: Glassmorphism design elements with smooth transitions using `AnimatedSwitcher`.
+* **Complete Profile Management**: Edit personal data, security settings, and appearance customization (Dark Mode).
+* **Smart Notification System**: Stay updated with the latest requests and activities within development groups.
+
+---
+
+## 📸 App Showcase
 
 ### 🟢 Start & Authentication
 | Splash Screen | Login Screen | Registration | Verify Email |
